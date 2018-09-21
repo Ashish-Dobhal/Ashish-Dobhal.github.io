@@ -55,11 +55,11 @@ hr {
 color:#62BDF0 !important
 }
 
-#home p{
+/* #home p{
 font-size: 20px;
 line-height: 28px;
 color: #616161
-}
+} */
 
 /* #home li{
   font-size: 20px;
@@ -86,6 +86,58 @@ color: #616161
 }
 .section-header {
   margin-bottom: 50px;
+}
+.grey-text-body
+{
+  font-size:18px;
+  color:#616161;
+}
+.grey-text-body-sm
+{
+  font-size:14px;
+  color:#616161;
+  font-weight: 600
+}
+.white-text-body
+{
+  font-size:18px;
+  color:#ffffff;
+}
+.title-white
+{
+  font-size: 24px;
+  text-transform: none !important;
+  color:      white !important;
+  border-bottom: 2px solid white;
+  text-transform: uppercase;
+  position: relative;
+  padding-bottom: 10px;
+  margin: 0 0 20px;  
+display: inline-block;
+}
+.title-blue
+{
+  font-size: 24px;
+  text-transform: none !important;
+  color:      #62BDF0 !important;
+  border-bottom: 2px solid #62BDF0;
+  text-transform: uppercase;
+  position: relative;
+  padding-bottom: 10px;
+  margin: 0 0 20px;  
+display: inline-block;
+}
+.title-black 
+{
+  font-size: 24px;
+  text-transform: none !important;
+  color:      black !important;
+  border-bottom: 2px solid black;
+  text-transform: uppercase;
+  position: relative;
+  padding-bottom: 10px;
+  margin: 0 0 20px;  
+display: inline-block;
 }
 .section-header .section-title {
   font-size: 32px;
@@ -555,10 +607,6 @@ margin-bottom: 15px;
 #testimonial h2{
 color:#fff;
 }
-#testimonial h4 {
-  color: #fff;
-  margin-bottom: 8px;
-}
 #testimonial small {
   display: block;
   margin-bottom: 10px;
@@ -685,7 +733,7 @@ color: rgb(40, 141, 203);
 }
 #vision {
   padding: 140px 0;
-  background: #E5E5E5;
+  background: #9E9E9E;
   color: #4F4F4F;
 }
 #mission {
@@ -738,7 +786,7 @@ color: #fff !important;
 	-moz-transition:all .5s ease;
 	transition:all .5s ease;
 	font-size: 18px;
-  color: #474747;
+  color: #616161;
   background:#ffffff;
 line-height: 22px;
 height:350px;
@@ -1046,9 +1094,15 @@ padding: 7px 0 0;
 }
 .modal-body p
 {
-  font-size: 18px;
-line-height: 24px;
-color: #616161
+  font-size: 14px;
+  color: #616161;
+  padding: 0 3px 0 3px;
+}
+.modal-body ul
+{
+  font-size: 14px;
+  color: #616161;
+  padding: 0 15px 0 15px;
 }
 .modal-title
 {
@@ -1093,5 +1147,5 @@ color: #616161
 }
 .fa:hover
 {
-  color:#2c8cb3
+  color:#2c8cb3 
 }
