@@ -739,6 +739,7 @@ color: rgb(40, 141, 203);
 #mission {
   padding: 140px 0;
   color: #4F4F4F;
+  background-color: #62bdf0;
 }
 #about h2{
 color: #4F4F4F;
@@ -924,9 +925,12 @@ color: #62BDF0;
   border-radius: 100px;
   margin-bottom: 20px;
 }
-#pricing {
+#client {
   padding: 140px 0 70px;
 }
+#client .section-header
+{
+margin-left:45%}
 #pricing ul.pricing {
   list-style: none;
   padding: 0;
