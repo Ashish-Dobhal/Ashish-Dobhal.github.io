@@ -734,7 +734,6 @@ color: rgb(40, 141, 203);
 #vision {
   padding: 140px 0;
   background: #9E9E9E;
-  color: #4F4F4F;
 }
 #mission {
   padding: 140px 0;
@@ -992,9 +991,12 @@ color: #FFFFFF;
 #pricing ul.pricing.featured li.plan-header .plan-name {
   color: #FFFFFF;
 }
-#contact-us {
-  padding: 140px 0 75px;
+#contact {
+  padding: 140px 0 10px;
+  background-color: white;
 }
+
+
 #contact-us h1,
 #contact-us h2 {
 }
