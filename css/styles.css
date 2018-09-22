@@ -792,6 +792,11 @@ line-height: 20px;
 height:280px;
 border-radius: 0px;
 }
+.media-heading
+{
+  margin-top:20px;  
+
+}
  
 /* .single-testimonial blockquote:after{
 	position:absolute;
