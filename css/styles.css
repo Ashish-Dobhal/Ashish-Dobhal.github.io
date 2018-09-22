@@ -694,7 +694,7 @@ color: rgb(40, 141, 203);
 
 .download-now
 {
-	background: #4CAF50;
+	background: #F5F5F5;
 	background-size: 30%;
 	padding: 140px 0 0; 
 }
@@ -910,7 +910,7 @@ color: #62BDF0;
 }
 #business-stats {
   padding: 140px 0 70px;
-  background:#4CAF50 ;
+  background:#e8ecf8 ;
   background-size: cover;
   color: #fff;
 }
@@ -938,6 +938,7 @@ color: #62BDF0;
 }
 #client {
   padding: 140px 0 70px;
+  background-color: #e8ecf8;
 }
 #client .section-header
 {
