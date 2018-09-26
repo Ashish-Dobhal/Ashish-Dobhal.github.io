@@ -1005,9 +1005,10 @@ color: #FFFFFF;
   color: #FFFFFF;
 }
 #contact {
-  padding: 140px 0 10px;
+  padding: 240px 0 10px;
   background-color: white;
-  background-image: url("../images/location.PNG")
+  background-image: url("../images/location.PNG");
+  background-size:contain;
 }
 
 .contact-form
@@ -1163,7 +1164,7 @@ padding: 7px 0 0;
 }
 .header-text-data {
   position: absolute;
-  top: 83%;
+  top: 79%;
   /* left: 1.8%; */
   left:0;
  right:0; 
