@@ -901,7 +901,7 @@ color: #62BDF0;
   left: 0;
   width: 100%;
   height: 100%;
-  background: #62bdf0;
+  background: grey;
   -moz-transform: skewY(-3deg);
   -o-transform: skewY(-3deg);
   -ms-transform: skewY(-3deg);
@@ -910,7 +910,7 @@ color: #62BDF0;
 }
 #business-stats {
   padding: 140px 0 70px;
-  background:#e8ecf8 ;
+  background:grey ;
   background-size: cover;
   color: #fff;
 }
