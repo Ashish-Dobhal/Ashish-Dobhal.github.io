@@ -940,6 +940,10 @@ color: #62BDF0;
   padding: 140px 0 70px;
   background-color: #e8ecf8;
 }
+#client .col-md-4
+{
+  margin-bottom:10px;
+}
 #client .section-header
 {
 margin-left:45%}
