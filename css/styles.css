@@ -1,7 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Raleway:400,700,500);
 /*
-Author: webthemez.com
-Author URL: http://webthemez.com
+Author: wavesarrow-tech
 */
 /*************************
 *******Typography******
@@ -9,10 +8,12 @@ Author URL: http://webthemez.com
 body {
   padding-top: 100px;
   background: #fff;
-  font-family: 'Raleway', sans-serif;
   font-weight: 400;
   color: #282828;
   line-height: 26px;
+    font-family: 'Roboto' !important;
+    font-size: 22px;
+
 }
 h1,
 h2,
@@ -20,8 +21,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: 600;
-  font-family: 'Raleway', sans-serif;
+  font-weight: 600; 
+  font-family: 'Roboto' !important;
 }
 a {
   color: #45aed6;
@@ -102,6 +103,7 @@ color: #616161
 {
   font-size:18px;
   color:#ffffff;
+ 
 }
 .title-white
 {
@@ -246,6 +248,7 @@ font-size: 18px;
 **************************/
 #main-nav.navbar-default {
 background: #FFFFFF;
+
 }
 #main-nav.navbar-default .navbar-nav > li.active > a, #main-nav.navbar-default .navbar-nav > li.open > a, #main-nav.navbar-default .navbar-nav > li:hover > a {
 background: transparent;
@@ -1011,8 +1014,8 @@ color: #FFFFFF;
 #contact {
   padding: 240px 0 10px;
   background-color: white;
-  background-image: url("../images/location.PNG");
-  background-size:contain;
+  /* background-image: url("../images/location.PNG");
+  background-size:contain; */
 }
 
 .contact-form
