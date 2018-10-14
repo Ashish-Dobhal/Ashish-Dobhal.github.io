@@ -1037,9 +1037,9 @@ color: #FFFFFF;
  .contact-info
  {
    position: absolute;
-   bottom: 100px;
    width:100%;
- }
+  bottom:50px;
+  }
 .contact-info address {
 margin-bottom: 20px;
 font-style: normal;
