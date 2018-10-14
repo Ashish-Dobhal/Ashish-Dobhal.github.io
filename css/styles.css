@@ -1034,6 +1034,12 @@ color: #FFFFFF;
  /* .contact-info{
  padding:20px 20px;
  } */
+ .contact-info
+ {
+   position: absolute;
+   bottom: 100px;
+   width:100%;
+ }
 .contact-info address {
 margin-bottom: 20px;
 font-style: normal;
