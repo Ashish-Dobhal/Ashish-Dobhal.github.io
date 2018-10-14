@@ -1024,6 +1024,7 @@ color: #FFFFFF;
   color: #fff;
     background: black;
     opacity:0.75 ;
+    width:400px;
     z-index: 999;
  
 }
@@ -1037,7 +1038,6 @@ color: #FFFFFF;
  .contact-info
  {
    position: absolute;
-   width:100%;
   bottom:50px;
   }
 .contact-info address {
