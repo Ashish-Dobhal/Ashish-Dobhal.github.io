@@ -735,7 +735,7 @@ color: rgb(40, 141, 203);
   margin-top:20px
 }
 #vision {
-  padding: 140px 0;
+  padding: 140px 0 180px;
   background: #9E9E9E;
 }
 #mission {
@@ -940,7 +940,7 @@ color: #62BDF0;
   margin-bottom: 20px;
 }
 #client {
-  padding: 140px 0 70px;
+  padding: 140px 0 190px;
   background-color: #e8ecf8;
 }
 #client .col-md-5
