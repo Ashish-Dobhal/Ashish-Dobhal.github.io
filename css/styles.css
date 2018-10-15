@@ -13,6 +13,7 @@ body {
   line-height: 26px;
     font-family: 'Roboto' !important;
     font-size: 22px;
+    text-align: justify !important;
 
 }
 h1,
@@ -148,7 +149,7 @@ display: inline-block;
   border-bottom: 2px solid #4CAF50;
   text-transform: uppercase;
   position: relative;
-  padding-bottom: 10px;
+  padding-bottom: 5px;
   margin: 0 0 20px;  
 display: inline-block;
 }
@@ -1192,4 +1193,18 @@ padding: 7px 0 0;
 {
   color:#2c8cb3 
 }
+/*  Bootstrap panel override */
+.panel-heading
+{
+  background-color: #62BDF0 !important;
+  padding: 5px 15px !important;
+}
 
+.panel-heading h4
+{
+
+}
+.panel-primary
+{
+  border-color: #62BDF0 !important;
+}
