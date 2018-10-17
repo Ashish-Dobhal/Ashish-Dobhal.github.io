@@ -139,8 +139,22 @@ display: inline-block;
   text-transform: uppercase;
   position: relative;
   padding-bottom: 10px;
-  margin: 0 0 20px;  
+  margin:  0 0 20px;
 display: inline-block;
+}
+.contact-title
+{
+  font-size: 24px;
+  text-transform: none !important;
+  color:      black !important;
+  border-bottom: 2px solid black;
+  text-transform: uppercase;
+  position: relative;
+  padding-bottom: 10px;
+  margin: 0 7% 5%;  
+display: inline-block;
+
+  
 }
 .section-header .section-title {
   font-size: 32px;
@@ -948,9 +962,9 @@ color: #62BDF0;
 {
   margin-bottom:10px;
 }
-#client .section-header
+/* #client .section-header
 {
-margin-left:45%}
+margin-left:45%} */
 #pricing ul.pricing {
   list-style: none;
   padding: 0;
@@ -1022,11 +1036,11 @@ color: #FFFFFF;
 .contact-form
 {
   padding:10px;
-  color: #fff;
-    background: black;
+  color: white;
+    /* background: black;
     opacity:0.75 ;
     width:400px;
-    z-index: 999;
+    z-index: 999; */
  
 }
 #contact-us h1,
@@ -1069,6 +1083,7 @@ width: 100px;
   padding-top: 30px;
   padding-bottom: 30px;
   color: #fff;
+  bottom: 0;
   background: #222222;
 }
 #footer a {
@@ -1207,4 +1222,12 @@ padding: 7px 0 0;
 .panel-primary
 {
   border-color: #62BDF0 !important;
+}
+.nopadding {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+.pad-left-1
+{
+  padding-left:8%;
 }
